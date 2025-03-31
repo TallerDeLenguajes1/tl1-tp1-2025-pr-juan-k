@@ -2,6 +2,8 @@
 # Editar en https://www.toptal.com/developers/gitignore?templates=c
 
 ### C ###
+# mis ignorados
+*.txt
 # Requisitos previos
 *.d
 
