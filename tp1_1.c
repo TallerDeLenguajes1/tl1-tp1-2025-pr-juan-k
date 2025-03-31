@@ -4,7 +4,7 @@ int main(){
     printf("Hola mundo");
     int num = 1;
     int *punt;
-    punt = num;
+    *punt = num;
     printf("\nEl contenido del puntero:%d",*punt);
     printf("\n La direccion de memoria que guarda el puntero:%p",punt);
     printf("\n La direccion de memoria de la variable:%d",&num);
