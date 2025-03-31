@@ -4,6 +4,7 @@
 ### C ###
 # mis ignorados
 *.txt
+ignorado.txt
 # Requisitos previos
 *.d
 
